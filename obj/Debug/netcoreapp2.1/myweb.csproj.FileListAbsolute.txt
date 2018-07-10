@@ -1,0 +1,14 @@
+/home/wanlongz/Code/myweb/bin/Debug/netcoreapp2.1/myweb.deps.json
+/home/wanlongz/Code/myweb/bin/Debug/netcoreapp2.1/myweb.runtimeconfig.json
+/home/wanlongz/Code/myweb/bin/Debug/netcoreapp2.1/myweb.runtimeconfig.dev.json
+/home/wanlongz/Code/myweb/bin/Debug/netcoreapp2.1/myweb.dll
+/home/wanlongz/Code/myweb/bin/Debug/netcoreapp2.1/myweb.pdb
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.csprojAssemblyReference.cache
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.csproj.CoreCompileInputs.cache
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.RazorAssemblyInfo.cache
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.RazorAssemblyInfo.cs
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.AssemblyInfoInputs.cache
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.AssemblyInfo.cs
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.RazorTargetAssemblyInfo.cache
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.dll
+/home/wanlongz/Code/myweb/obj/Debug/netcoreapp2.1/myweb.pdb
